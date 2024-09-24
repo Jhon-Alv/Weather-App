@@ -66,7 +66,5 @@ function handleSearch() {
       weatherBox.classList.add("fadeIn");
       weatherDetails.classList.add("fadeIn");
       container.style.height = "590px";
-
-      console.log(json.main.temp);
     });
 }
