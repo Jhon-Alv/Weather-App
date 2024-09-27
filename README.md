@@ -21,7 +21,7 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/weather-app.git
+   git clone https://github.com/Jhon-Alv/Weather-App
    ```
 2. Navega a la carpeta del proyecto:
    ```bash
